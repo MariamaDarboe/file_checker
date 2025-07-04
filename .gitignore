@@ -1,0 +1,7 @@
+.bash*
+.profile
+.motd_shown
+.sudo_as_admin_successful
+lesshst
+landscape/
+
